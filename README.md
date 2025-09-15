@@ -1,4 +1,4 @@
-# Dex Generator – Real-Time Solana Token Aggregator
+# Real-time Data Aggregation Service
 
 This project aggregates real-time Solana token data from **DexScreener** and **CoinGecko**, caches it with Redis, and provides a REST API endpoint for clients to access token metadata with support for **filtering**, **sorting**, **pagination**, and **WebSocket-based live updates**.
 
