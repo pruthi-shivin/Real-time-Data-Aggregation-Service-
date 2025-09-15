@@ -22,19 +22,18 @@ This project aggregates real-time Solana token data from **DexScreener** and **C
 
 ### 1. Clone this repo
 
-### git clone https://github.com/Shubh-234/dex-generator.git
+### git clone https://github.com/pruthi-shivin/Real-time-Data-Aggregation-Service-.git
 
-### 2. go in the folder cd dex-generator
+### 2. go in the folder cd dex-generator-master
 
 ### 3. npm install
 
 ### 4. Create an env file
-### PORT=3000
-### REDIS_URL=redis://localhost:6379
+### PORT=5000
+### REDIS_URL=redis://127.0.0.1:6379
 
-### 5. Start the server using command npx tsx src/index.ts### Live render project (data fetched): https://dex-generator.onrender.com/api/tokens
+### 5. Start the server using command npm run dev 
 
-## Live render project (data fetched): https://dex-generator.onrender.com/api/tokens
 
 
 
