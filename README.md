@@ -1,4 +1,4 @@
-# 🧠 Dex Generator – Real-Time Solana Token Aggregator
+# Dex Generator – Real-Time Solana Token Aggregator
 
 This project aggregates real-time Solana token data from **DexScreener** and **CoinGecko**, caches it with Redis, and provides a REST API endpoint for clients to access token metadata with support for **filtering**, **sorting**, **pagination**, and **WebSocket-based live updates**.
 
@@ -6,15 +6,15 @@ This project aggregates real-time Solana token data from **DexScreener** and **C
 
 ## 🔧 Features
 
-- 🔄 Aggregates tokens from DexScreener and CoinGecko
-- 🧠 Smart matching of tokens across APIs
-- 📊 Real-time live price updates via WebSockets
-- ⚡️ Redis caching with 30s TTL for performance
-- 🔎 Filtering by timeframes (1h, 6h, 24h)
-- ↕️ Sorting by price, market cap, and volume
-- ➡️ Cursor-based pagination
-- 🧪 Rate-limited `/api/tokens` endpoint
-- 🚀 Deployed on Render for public access
+- Aggregates tokens from DexScreener and CoinGecko
+- Smart matching of tokens across APIs
+- Real-time live price updates via WebSockets
+- Redis caching with 30s TTL for performance
+- Filtering by timeframes (1h, 6h, 24h)
+- ↕Sorting by price, market cap, and volume
+- Cursor-based pagination
+- Rate-limited `/api/tokens` endpoint
+- Deployed on Vercel for public access
 
 ---
 
