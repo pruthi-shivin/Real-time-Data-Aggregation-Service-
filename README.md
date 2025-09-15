@@ -4,7 +4,7 @@ This project aggregates real-time Solana token data from **DexScreener** and **C
 
 ---
 
-## 🔧 Features
+## Features
 
 - Aggregates tokens from DexScreener and CoinGecko
 - Smart matching of tokens across APIs
@@ -18,7 +18,7 @@ This project aggregates real-time Solana token data from **DexScreener** and **C
 
 ---
 
-## 🛠️ How to Run Locally
+## How to Run Locally
 
 ### 1. Clone this repo
 
