@@ -11,10 +11,9 @@ This project aggregates real-time Solana token data from **DexScreener** and **C
 - Real-time live price updates via WebSockets
 - Redis caching with 30s TTL for performance
 - Filtering by timeframes (1h, 6h, 24h)
-- ↕Sorting by price, market cap, and volume
+- Sorting by price, market cap, and volume
 - Cursor-based pagination
 - Rate-limited `/api/tokens` endpoint
-- Deployed on Vercel for public access
 
 ---
 
